@@ -1,0 +1,2 @@
+# txoko
+Projecte/pràctica 
