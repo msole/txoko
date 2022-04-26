@@ -4,7 +4,7 @@ def molesta(missatge):
     time.sleep(random.randint(1, 3))
     print(missatge)
     
-    thread.start_new_thread(molesta, ('Booh !!',))
+    thread.start_new_thread(molesta, ('Paso !!',))
     
     x = 0
     while True:
